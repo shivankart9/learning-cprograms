@@ -1,4 +1,4 @@
-/*this code is of if else in which if you are eligible or not*/
+//this code is of if else in which if you are eligible or not
 #include <stdio.h>
 int main()
 {

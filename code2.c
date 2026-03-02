@@ -1,4 +1,4 @@
-/*entering 2 numbers in this program and then it will tell which is greater number*/
+// entering 2 numbers in this program and then it will tell which is greater number
 #include<stdio.h>
 int main()
 {
